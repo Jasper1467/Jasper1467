@@ -3,4 +3,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasper1467&show_icons=true&layout=compact&theme=github_dark&hide=max"/> 
 <br>
 Contact:
+<br>
 Discord: jasper1467
