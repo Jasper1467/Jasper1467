@@ -1,6 +1,5 @@
 #### Stats:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasper1467&show_icons=true&theme=github_dark&custom_title=Stats"/> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasper1467&show_icons=true&layout=compact&theme=github_dark&hide=max"/> 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jasper1467&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 Contact:
 <br>
